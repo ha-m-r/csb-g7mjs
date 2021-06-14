@@ -1,0 +1,2 @@
+body{font-family:sans-serif}section{text-align:center}#ladeStatus{position:relative}#ladeStatus.ready:after{content:"geladen";color:green}#ladeStatus.loading:after{content:"... laden";color:#ff4500}figcaption.error{background-color:red}
+/*# sourceMappingURL=/csb-g7mjs/src.cac73f83.css.map */
